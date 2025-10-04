@@ -1,5 +1,6 @@
 <!-- ชื่อหัวใหญ่ -->
-# 👋 Hi! My name is 👉 Your Name
+# 👋 Hi! My name is 👉 Mathawadee Kaewviset
+You can call me Bam
 
 ## 💫 About Me
 🎓 A Thai student from **👉 RMUTT**  
