@@ -5,7 +5,6 @@
 🎓 A Thai student from **👉 RMUTT**  
 💼 Interests: UI/UX Design, Frontend Dev, Creative Projects  
 🌱 Currently learning **Android (Java)** and **Web (HTML/CSS/JS)**  
-🎨 Love designing in **Figma** with pastel color palettes.
 
 ---
 
